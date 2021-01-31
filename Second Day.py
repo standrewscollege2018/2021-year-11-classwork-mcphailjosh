@@ -1,3 +1,4 @@
+# This program demonstrates storing information in varibles
 
 # Here a varible called name is storing the text "Josh Mcphail"
 name = "Josh Mcphail"
